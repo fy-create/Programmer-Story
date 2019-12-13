@@ -1,3 +1,3 @@
 Story
 
-#### Bin's Story
+### [Bin's Story](./bin-story)
